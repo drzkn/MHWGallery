@@ -1,8 +1,9 @@
 import { StatusBar } from 'expo-status-bar';
-import { Box, NativeBaseProvider } from 'native-base';
-import { StyleSheet, Text, View } from 'react-native';
+import { NativeBaseProvider } from 'native-base';
+import { StyleSheet, View } from 'react-native';
 
 import { QueryClient, QueryClientProvider } from 'react-query'
+import { Root } from './src/Root';
 
 const queryClient = new QueryClient();
 
@@ -12,7 +13,7 @@ export default function App() {
     <NativeBaseProvider>
       <QueryClientProvider client={queryClient}>
         <View style={styles.container}>
-          <Text>Monster hunter world Gallery</Text>
+          <Root />
           <StatusBar style="auto" />
         </View>
       </QueryClientProvider>
