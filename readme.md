@@ -44,10 +44,11 @@ expo start --web
 ## Tech stack
 
 Ordenados alfabéticamente
-✅ axios
-✅ expo
-✅ expo router
-✅ native base
-✅ react native
-✅ react query
-✅ tailwind css
+
+- ✅ axios
+- ✅ expo
+- ✅ expo router
+- ✅ native base
+- ✅ react native
+- ✅ react query
+- ✅ tailwind css
