@@ -1,3 +1,5 @@
+# <img src="https://cdn.cgmagonline.com/wp-content/uploads/2018/08/monster-hunter-world-pc-review.jpg" alt="carátula del juego monster hunter world">
+
 # Monster hunter world gallery
 
 ## Descripcion
