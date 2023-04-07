@@ -1,4 +1,4 @@
-### Monster hunter world gallery
+# Monster hunter world gallery
 
 ## Descripcion
 
@@ -14,7 +14,7 @@ Es necesario tener instalado yarn en el equipo, si no se tiene instalado se pued
 
 El proyecto se puede ejecutar de varias maneras posibles.
 
-# En android
+### En android
 
 En primer lugar es necesario tener instalada la aplicación expo en el terminal android que se va a utilizar y seguir las instrucciones que te ofrece la propia aplicación.
 
@@ -22,7 +22,7 @@ En primer lugar es necesario tener instalada la aplicación expo en el terminal 
 expo start --android
 ```
 
-# En ios
+### En ios
 
 Al igual que en el caso de android, para ios es necesario tener instalada la aplicación expo en el terminal movil elegido y
 seguir las instrucciones que ofrece esta.
@@ -31,7 +31,7 @@ seguir las instrucciones que ofrece esta.
 expo start --ios
 ```
 
-# En web
+### En web
 
 No necesitas ningún requisito en especial
 
