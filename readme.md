@@ -1,10 +1,10 @@
 # <img src="https://cdn.cgmagonline.com/wp-content/uploads/2018/08/monster-hunter-world-pc-review.jpg" alt="carátula del juego monster hunter world">
 
-# Monster hunter world gallery
+# MHWGallery
 
 ## Descripcion
 
-Este pequeño proyecto, es un proyecto personal creado simplemente para aprender las bases de react native y react query.
+Monster hunter world gallery es un pequeño proyecto, es un proyecto personal creado simplemente para aprender las bases de react native y react query.
 Se ha elegido la temática de monster hunter world, para hacer una kata similar a la tipica kata de hacer una pokedex pero con
 los monstruos del conocido juegos multiplataforma.
 
