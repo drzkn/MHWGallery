@@ -40,3 +40,14 @@ No necesitas ningún requisito en especial
 ```
 expo start --web
 ```
+
+## Tech stack
+
+Ordenados alfabéticamente
+[x] axios
+[x] expo
+[x] expo router
+[x] native base
+[x] react native
+[x] react query
+[ ] tailwind css
