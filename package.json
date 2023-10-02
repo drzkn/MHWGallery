@@ -10,14 +10,14 @@
     "e2e": "yarn run cypress open"
   },
   "dependencies": {
-    "@expo/webpack-config": "^18.0.1",
+    "@expo/webpack-config": "^18.1.0",
     "@types/jest": "^29.4.0",
     "@types/react": "^18.0.28",
     "@types/react-native": "^0.71.3",
     "axios": "^1.3.4",
-    "expo": "~48.0.4",
-    "expo-constants": "~14.2.1",
-    "expo-linking": "~4.0.1",
+    "expo": "~49.0.0",
+    "expo-constants": "~14.4.1",
+    "expo-linking": "~5.0.0",
     "expo-router": "^1.5.2",
     "expo-status-bar": "~1.4.4",
     "native-base": "^3.4.26",
