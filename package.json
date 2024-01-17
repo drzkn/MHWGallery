@@ -10,7 +10,7 @@
     "e2e": "yarn run cypress open"
   },
   "dependencies": {
-    "@expo/webpack-config": "^18.1.0",
+    "@expo/webpack-config": "^19.0.1",
     "@types/jest": "^29.4.0",
     "@types/react": "^18.0.28",
     "@types/react-native": "^0.71.3",
